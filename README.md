@@ -16,7 +16,7 @@ driven, and results-oriented approach.
 
 ---
 
-# 👨‍💻 About Me
+<h2> 👨‍💻 About Me</h2>
 
 - 💬 Ask me about **Full Stack Development, AI, and Cybersecurity**
 - 🚀 Focused on building **scalable web applications**
@@ -25,7 +25,7 @@ driven, and results-oriented approach.
 
 ---
 
-# 🤖 AI / Machine Learning
+<h2> 🤖 AI / Machine Learning</h2>
 
 <table>
   <tr>
