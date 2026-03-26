@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
 
-<h1>Hi 👋 Everyone</h1>
-<h3>Software Engineer | Full Stack | LLMs & Agentic AI | Automation Systems</h3>
+<h2>Hi 👋 Everyone</h2>
+<h4>Software Engineer | Full Stack | LLMs & Agentic AI | Automation Systems</h4>
 
 <p>
 Experienced in architecting and delivering production-grade systems across web, backend, and AI domains, with 8 years of software
