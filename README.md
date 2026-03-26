@@ -26,6 +26,7 @@ Management Systems, Operating Systems
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
    
     
 - 🎨 Frameworks
