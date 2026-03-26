@@ -37,10 +37,7 @@ driven, and results-oriented approach.
       <img src="https://skillicons.dev/icons?i=pytorch" height="30"/>
       <br>PyTorch
     </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="30"/>
-      <br>TensorFlow
-    </td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
   </tr>
 </table>
 
