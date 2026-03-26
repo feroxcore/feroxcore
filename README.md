@@ -30,15 +30,15 @@ driven, and results-oriented approach.
 <table>
   <tr>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=python" height="20"/>
+      <img src="https://skillicons.dev/icons?i=python" height="30"/>
       <br>Python
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=pytorch" height="20"/>
+      <img src="https://skillicons.dev/icons?i=pytorch" height="30"/>
       <br>PyTorch
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="20"/>
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="30"/>
       <br>TensorFlow
     </td>
   </tr>
