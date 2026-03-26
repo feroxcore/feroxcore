@@ -16,7 +16,7 @@ driven, and results-oriented approach.
 
 ---
 
-<h2> 👨‍💻 About Me</h2>
+<h3> 👨‍💻 About Me</h3>
 
 - 💬 Ask me about **Full Stack Development, AI, and Cybersecurity**
 - 🚀 Focused on building **scalable web applications**
@@ -25,20 +25,20 @@ driven, and results-oriented approach.
 
 ---
 
-<h2> 🤖 AI / Machine Learning</h2>
+<h3> 🤖 AI / Machine Learning</h3>
 
 <table>
   <tr>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=python" height="30"/>
+    <td align="center" width="50">
+      <img src="https://skillicons.dev/icons?i=python" height="20"/>
       <br>Python
     </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=pytorch" height="30"/>
+    <td align="center" width="50">
+      <img src="https://skillicons.dev/icons?i=pytorch" height="20"/>
       <br>PyTorch
     </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="30"/>
+    <td align="center" width="50">
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="20"/>
       <br>TensorFlow
     </td>
   </tr>
