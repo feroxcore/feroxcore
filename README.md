@@ -172,7 +172,7 @@ driven, and results-oriented approach.
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dwmusirc1204&theme=radical&row=1&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=feloxcore&theme=radical&row=1&no-frame=true"/>
 </p>
 
 ---
