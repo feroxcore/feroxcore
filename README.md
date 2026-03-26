@@ -172,5 +172,5 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 # 📫 Contact
 
-- 💼 GitHub: https://github.com/dwmusirc1204  
+- 💼 GitHub: https://github.com/feroxcore  
 - 📧 Email: your@email.com
