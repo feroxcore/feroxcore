@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
 
 <h2>Hi 👋 Everyone</h2>
-<h4>Software Engineer | Full Stack | LLMs & Agentic AI | Automation Systems</h4>
-
 <p>
 Experienced in architecting and delivering production-grade systems across web, backend, and AI domains, with 8 years of software
 engineering experience, including 4 years specializing in AI/ML engineering focus on LLMs, NLP, semantic search, AI agents, and
@@ -10,8 +8,6 @@ Retrieval-Augmented Generation (RAG).
 Proficient in building scalable applications using React.js, Next.js, TypeScript, React Native, and backend frameworks like Node.js,
 NestJS, FastAPI, Django, and Flask. Skilled in microservices, WebSocket/REST APIs, and optimizing PostgreSQL, MongoDB, and
 Redis pipelines for performance, and reliability.
-Hands-on with AWS, GCP, Docker, and CI/CD pipelines, delivering technically sound, scalable solutions with a collaborative, test
-driven, and results-oriented approach.
 </p>
 
 ---
