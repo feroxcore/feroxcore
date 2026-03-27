@@ -10,14 +10,12 @@ NestJS, FastAPI, Django, and Flask. Skilled in microservices, WebSocket/REST API
 Redis pipelines for performance, and reliability.
 </p>
 
----
-
 <h3> 👨‍💻 About Me</h3>
 
 - 💬 Ask me about **Full Stack Development and AI/ML Engineering**
 - 🚀 Focused on building **scalable web applications**
 - 🧠 Interested in **LLM systems, AI Agents, automation, and modern SaaS**
-- 📜 Certified developer on **HackerRank**
+- 📜 Open to **Fully Remote Opportunities**
 
 ---
 
