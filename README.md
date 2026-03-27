@@ -84,9 +84,3 @@ Redis pipelines for performance, and reliability.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="30"/>
 </p>
----
-
-<h3> 📫 Contact</h3>
-
-- 💼 GitHub: https://github.com/feroxcore  
-- 📧 Email: antpniobeard@gmail.com
