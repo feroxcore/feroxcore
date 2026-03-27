@@ -25,83 +25,71 @@ driven, and results-oriented approach.
 
 ---
 
-<h3> 🤖 AI / Machine Learning</h3>
+<h3> ⚙️ Skills</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/LLM%20Systems/RAG-412991?style=flat-square&logo=databricks&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-6A5ACD?style=flat-square&logo=robotframework&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/NLP-09A3D5?style=flat-square&logo=spacy&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/LangChain/LangGraph-00A67E?style=flat-square&logo=chainlink&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Pinecone/FAISS-0A192F?style=flat-square&logo=pinecone&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/ElevenLabs-1A1A1A?style=flat-square&logo=googleassistant&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Whisper-333333?style=flat-square&logo=openai&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" height="30"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="30"/>
 </p>
-
----
-
-<h3> ⚙️ Full Stack Development</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/JavaScript/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/React/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Node/Express.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" height="25"/>
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript/TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/React/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="30"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Node/Express.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38B2AC" height="30"/>
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" height="30"/>
 </p>
-
----
-
-<h3> 🗄 Databases & ORM</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" height="30"/>
 </p>
-
----
-
-<h3> 🔄 Workflow Automation</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Make-6D00FF?style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square" height="30"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Make-6D00FF?style=flat-square" height="30"/>
 </p>
-
----
-
-<h3> 📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dwmusirc1204&show_icons=true&theme=radical&cache_seconds=1800"/>
+<p>
+  <img src="https://img.shields.io/badge/AWS/GCP-4285F4?style=flat-square&logo=google&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=windows&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-222222?style=flat-square&logo=githubactions&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="30"/>
 </p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=dwmusirc1204&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwmusirc1204&layout=compact&theme=radical"/>
-</p>
-
 ---
 
 <h3> 📫 Contact</h3>
