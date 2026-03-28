@@ -88,6 +88,7 @@ Redis pipelines for performance, and reliability.
 ---
 
 <h3> 📫 Contact Me!</h3>
+
 - 💼 GitHub: https://github.com/feroxcore
 - 📧 Email: dragan.petrovic.me@email.com
 
