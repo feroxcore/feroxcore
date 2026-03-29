@@ -2,7 +2,7 @@
 <p>    
 Hello, I’m a software engineer with 8+ years of experience building full-stack applications, and the last 4 years focused on AI and LLM-based systems.
 
-These days I spend most of my time designing and shipping real-world AI solutions — things like RAG pipelines, multi-agent workflows, and scalable backend systems. I enjoy taking complex problems and turning them into clean, reliable products that people can actually use.
+These days I spend most of my time building real-world AI solutions — things like RAG pipelines, multi-agent workflows, and scalable backend systems. I enjoy taking complex problems and turning them into simple, reliable products people can actually use.
 
 I’m comfortable working across the stack, making architecture decisions, and driving projects from idea to production.
 
