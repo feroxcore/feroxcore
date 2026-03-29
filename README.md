@@ -1,6 +1,6 @@
 <h2>Dragan Petrovic</h2>
 <p>
-I’m a software engineer with 8+ years of experience building full-stack applications, and the last 4 years focused on AI and LLM-based systems.
+Hello, I’m a software engineer with 8+ years of experience building full-stack applications, and the last 4 years focused on AI and LLM-based systems.
 
 These days I spend most of my time designing and shipping real-world AI solutions — things like RAG pipelines, multi-agent workflows, and scalable backend systems. I enjoy taking complex problems and turning them into clean, reliable products that people can actually use.
 
@@ -81,12 +81,3 @@ I’m comfortable working across the stack, making architecture decisions, and d
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="30"/>
 </p>
-
----
-
-<h3> 📫 Contact Me!</h3>
-
-- 💼 GitHub: https://github.com/feroxcore
-- 📧 Email: dragan.petrovic.me@email.com
-
----
