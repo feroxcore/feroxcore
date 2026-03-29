@@ -23,8 +23,6 @@ I’m comfortable working across the stack, making architecture decisions, and d
 - 🚀 Focused on building **scalable web applications**
 - 🧠 Interested in **LLM systems, AI Agents, automation, and modern SaaS**
 - 📜 Open to **Fully Remote Opportunities**
-  
----
 
 <h3> 🛠️ Skills</h3>
 
@@ -43,3 +41,10 @@ I’m comfortable working across the stack, making architecture decisions, and d
   <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" height="40"/>&nbsp;
 </p>
+
+###
+
+<h3> 📊 Status</h3>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=feroxcore&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
