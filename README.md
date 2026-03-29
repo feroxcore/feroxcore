@@ -1,10 +1,10 @@
-<h2>Hi 👋 I am Dragan</h2>
+<h2>Dragan Petrovic</h2>
 <p>
-Software Engineer with 8+ years of experience delivering full-stack systems and 4+ years focused on AI/LLM-powered applications.
-  
-I design and build production-ready AI systems, including RAG pipelines, multi-agent workflows, and scalable backend architectures. I have a strong track record of turning complex ideas into reliable, user-facing products.
+I’m a software engineer with 8+ years of experience building full-stack applications, and the last 4 years focused on AI and LLM-based systems.
 
-Comfortable leading architecture decisions, working across the stack, and driving projects from concept to deployment.
+These days I spend most of my time designing and shipping real-world AI solutions — things like RAG pipelines, multi-agent workflows, and scalable backend systems. I enjoy taking complex problems and turning them into clean, reliable products that people can actually use.
+
+I’m comfortable working across the stack, making architecture decisions, and driving projects from idea to production.
 </p>
 
 <h3> 👨‍💻 About Me</h3>
