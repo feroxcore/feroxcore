@@ -19,9 +19,9 @@ I’m comfortable working across the stack, making architecture decisions, and d
 
 <h3> 👨‍💻 About Me</h3>
 
-- 💬 Ask me about **Full Stack Development and AI/ML Engineering**
+- 💬 Ask me about **Full Stack Development** and **AI/ML Engineering**
 - 🚀 Focused on building **scalable web applications**
-- 🧠 Interested in **LLM systems, AI Agents, automation, and modern SaaS**
+- 🧠 Interested in **LLM systems, AI Agents, automation,** and **modern SaaS**
 - 📜 Open to **Fully Remote Opportunities**
 
 <h3> 🛠️ Skills</h3>
