@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Dragan</h2>
+<h2>Hey, I'm Dragan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"></h2>
 <p>    
 Hello, I’m a software engineer with 8+ years of experience building full-stack applications, and the last 4 years focused on AI and LLM-based systems.
 
@@ -8,6 +8,9 @@ I’m comfortable working across the stack, making architecture decisions, and d
 
   <a href="https://www.linkedin.com/in/dragan-petrovic-bb86963ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="https://www.github.com/feroxcore" target="_blank">
+    <img src="https://img.shields.io/badge/github-454545?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
   <a href="mailto:dragan.petrovic.me@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
