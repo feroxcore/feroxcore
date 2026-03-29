@@ -6,12 +6,17 @@ These days I spend most of my time designing and shipping real-world AI solution
 
 I’m comfortable working across the stack, making architecture decisions, and driving projects from idea to production.
 
-  <a href="https://www.linkedin.com/in/dragan-petrovic-bb86963ab" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/feroxcore" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
-  &nbsp;&nbsp;
-  <a href="mailto:dragan.petrovic.me@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
-  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dragan-petrovic-bb86963ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/feroxcore" target="_blank">
+    <img src="https://img.shields.io/badge/Github-1F2937?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:dragan.petrovic.me@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
 </p>
 
 <h3> 👨‍💻 About Me</h3>
