@@ -19,7 +19,7 @@ I’m comfortable working across the stack, making architecture decisions, and d
   </a>
 </p>
 
-<h3> 🛠️ Languages & Frameworks</h3>
+<h3> 🛠️ Language & Frameworks</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/>&nbsp;
@@ -47,7 +47,7 @@ I’m comfortable working across the stack, making architecture decisions, and d
 
 ###
 
-<h3> 📊 Status</h3>
+<h3> 📊 GitHub Status</h3>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=feroxcore&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
