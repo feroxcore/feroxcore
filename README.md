@@ -29,6 +29,8 @@ I’m comfortable working across the stack, making architecture decisions, and d
 <h3> 🛠️ Skills</h3>
 
 <p>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
   <img src="https://img.shields.io/badge/LLM%20Systems/RAG-412991?style=flat-square&logo=databricks&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Agentic%20AI-6A5ACD?style=flat-square&logo=robotframework&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="30" />
