@@ -16,7 +16,7 @@ I’m comfortable working across the stack, making architecture decisions, and d
   
 ---
 
-<h3> ⚙️ Skills</h3>
+<h3> 🛠️ Skills</h3>
 
 <p>
   <img src="https://img.shields.io/badge/LLM%20Systems/RAG-412991?style=flat-square&logo=databricks&logoColor=white" height="30" />
