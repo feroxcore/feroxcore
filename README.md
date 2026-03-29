@@ -19,29 +19,30 @@ I’m comfortable working across the stack, making architecture decisions, and d
   </a>
 </p>
 
-<h3> 👨‍💻 About Me</h3>
-
-- 💬 Ask me about **Full Stack Development** and **AI/ML Engineering**
-- 🚀 Focused on building **scalable web applications**
-- 🧠 Interested in **LLM systems, AI Agents, automation,** and **modern SaaS**
-- 📜 Open to **Fully Remote Opportunities**
-
-<h3> 🛠️ Skills</h3>
+<h3> 🛠️ Languages & Frameworks</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=keras" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=next" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=nest" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/>&nbsp;
 </p>
 
 ###
