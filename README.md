@@ -1,5 +1,12 @@
 <h2>Hey 👋, I'm Dragan</h2>
 <p>
+  <a href="https://www.linkedin.com/in/dragan-petrovic-bb86963ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="mailto:dragan.petrovic.me@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=email&logoColor=white" height="30" />
+  </a>
+  
 Hello, I’m a software engineer with 8+ years of experience building full-stack applications, and the last 4 years focused on AI and LLM-based systems.
 
 These days I spend most of my time designing and shipping real-world AI solutions — things like RAG pipelines, multi-agent workflows, and scalable backend systems. I enjoy taking complex problems and turning them into clean, reliable products that people can actually use.
