@@ -1,6 +1,6 @@
-<h2>Hi 👋 Everyone</h2>
+<h2>Hi 👋I am Dragan</h2>
 <p>
-I am Dragan, a software engineer with 8+ years of experience delivering full-stack systems and 4+ years focused on AI/LLM-powered applications.
+Software engineer with 8+ years of experience delivering full-stack systems and 4+ years focused on AI/LLM-powered applications.
   
 I design and build production-ready AI systems, including RAG pipelines, multi-agent workflows, and scalable backend architectures. I have a strong track record of turning complex ideas into reliable, user-facing products.
 
