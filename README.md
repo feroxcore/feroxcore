@@ -1,4 +1,4 @@
-<h2>Dragan Petrovic</h2>
+<h2>Hey 👋, I'm Dragan</h2>
 <p>
 Hello, I’m a software engineer with 8+ years of experience building full-stack applications, and the last 4 years focused on AI and LLM-based systems.
 
