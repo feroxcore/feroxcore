@@ -1,13 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
-
 <h2>Hi 👋 Everyone</h2>
 <p>
-Experienced in architecting and delivering production-grade systems across web, backend, and AI domains, with 8 years of software
-engineering experience, including 4 years specializing in AI/ML engineering focus on LLMs, NLP, semantic search, AI agents, and
-Retrieval-Augmented Generation (RAG).
-Proficient in building scalable applications using React.js, Next.js, TypeScript, React Native, and backend frameworks like Node.js,
-NestJS, FastAPI, Django, and Flask. Skilled in microservices, WebSocket/REST APIs, and optimizing PostgreSQL, MongoDB, and
-Redis pipelines for performance, and reliability.
+I am Dragan, a software engineer with 8+ years of experience delivering full-stack systems and 4+ years focused on AI/LLM-powered applications.
+  
+I design and build production-ready AI systems, including RAG pipelines, multi-agent workflows, and scalable backend architectures. I have a strong track record of turning complex ideas into reliable, user-facing products.
+
+Comfortable leading architecture decisions, working across the stack, and driving projects from concept to deployment.
 </p>
 
 <h3> 👨‍💻 About Me</h3>
