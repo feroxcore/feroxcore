@@ -48,7 +48,3 @@ I’m comfortable working across the stack, making architecture decisions, and d
 
 ###
 
-<h3> 📊 GitHub Status</h3>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=feroxcore&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
