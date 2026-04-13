@@ -6,9 +6,6 @@ These days I spend most of my time building real-world AI solutions — things l
 
 I’m comfortable working across the stack, making architecture decisions, and driving projects from idea to production.
 
-  <a href="https://www.linkedin.com/in/dragan-petrovic-bb86963ab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
   &nbsp;
   <a href="https://github.com/feroxcore" target="_blank">
     <img src="https://img.shields.io/badge/Github-1F2937?style=for-the-badge&logo=github&logoColor=white" height="30" />
