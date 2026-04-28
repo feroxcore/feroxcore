@@ -1,4 +1,4 @@
-<h2>Hey, I'm Dragan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"></h2>
+<h2>Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"></h2>
 <p>    
 Hello, I’m a software engineer with 8+ years of experience building full-stack applications, and the last 4 years focused on AI and LLM-based systems.
 
