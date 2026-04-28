@@ -11,7 +11,7 @@ I’m comfortable working across the stack, making architecture decisions, and d
     <img src="https://img.shields.io/badge/Github-1F2937?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
   &nbsp;
-  <a href="mailto:dragan.petrovic.me@email.com" target="_blank">
+  <a href="mailto:silvaangel123@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 </p>
